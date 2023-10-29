@@ -67,6 +67,7 @@ Remove node 4 from the front of queue and visit the unvisited neighbours and pus
 6. Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.
 
 ## PROGRAM:
+```
 python
 from collections import deque
 from collections import defaultdict
@@ -98,7 +99,7 @@ visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 
-
+```
 ### Sample Input and Output:
 
 ![image](https://github.com/Aashima02/AI02-Implement-Breadth-First-Search-Traversal-of-a-Graph/assets/93427086/37123abe-dcad-4d6c-a676-2d4ae763dcc5)
