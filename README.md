@@ -1,6 +1,6 @@
 # EXP02-Implement Breadth First Search Traversal of a Graph
 
-#### NAME: PAVIHRA G
+#### NAME: PAVITHRA G
 #### REG NO: 212221240036
 
 ## AIM:
